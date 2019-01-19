@@ -1,4 +1,4 @@
-# Image_Steganography_in_Python
+# Star_Wars_Image_Steganography
 
 Image Steganography: Hiding images, text files, and other data inside of images.
 
